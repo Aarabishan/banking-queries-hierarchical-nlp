@@ -172,3 +172,6 @@ The final model shows:
 - Advanced transformer-based hierarchical models
 - Real-time deployment with scalable backend
 - Enhanced explainability techniques
+
+
+🎓 Acadamice context: This repository documents one of the applied projects completed for the Artificial Intelligence module in my MSc in Data Science programme. All results, code, and design choices are provided for educational purposes; actual performance may vary across environments and dataset revisions.
