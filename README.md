@@ -1,4 +1,4 @@
-# 🏦 Hierarchical Multi-Task NLP Model for Banking Customer Queries
+# 🏦 Hierarchical Multi-task Neural Network for Banking Customer Service
 
 ## 📌 Project Overview
 
