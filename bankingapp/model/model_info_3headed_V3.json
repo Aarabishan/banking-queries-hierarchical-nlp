@@ -1,0 +1,13 @@
+{
+  "vocab_size": 2297,
+  "max_length": 14,
+  "embedding_dim": 128,
+  "num_categories": 4,
+  "num_intents": 77,
+  "num_urgency_levels": 3,
+  "total_parameters": 880756,
+  "training_epochs": 50,
+  "best_val_category_accuracy": 0.9380309581756592,
+  "best_val_intent_accuracy": 0.8150924444198608,
+  "best_val_urgency_accuracy": 0.7481259107589722
+}

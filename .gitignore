@@ -1,0 +1,22 @@
+# Jupyter checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Local datasets
+dataset/
+
+# Model artifacts
+*.keras
+*.pkl
+
+# Banking app model folder
+bankingapp/model/*
+!bankingapp/model/.gitkeep
+!bankingapp/model/*.json
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment files
+.env
