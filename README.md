@@ -117,6 +117,17 @@ The final model shows:
     - Better hierarchical consistency
     - Strong performance on critical urgency detection
 
+Final Model Scores:
+
+| Head | Accuracy | Precision (weighted) | Recall (weighted) | F1-score (weighted) |
+|---|---:|---:|---:|---:|
+| Category | **94.55%** | **94.55%** | **94.55%** | **94.54%** |
+| Intent | **81.40%** | **82.46%** | **81.40%** | **81.29%** |
+| Urgency | **75.71%** | **74.64%** | **75.71%** | **74.62%** |
+
+As the proposed architecture is a three-headed multi-task model, performance is evaluated separately for Category, Intent, and Urgency. A single overall accuracy does not fully represent the performance of all three prediction tasks.
+
+
 
 ## 🔍 Explainability (XAI)
 
